@@ -1,0 +1,113 @@
+# OpticalRayTracer 8.8
+# http://arachnoid.com/OpticalRayTracer
+# 2015.02.05 00:04:11 PST
+
+program {
+  antialias                 = true
+  askBeforeDeleting         = true
+  beamAngle                 = 0.000000e+00
+  beamCount                 = 4
+  beamWidth                 = 1
+  clipboardGraphicXSize     = 1280
+  colorArrow                = -2147483393
+  colorBaseline             = -16760832
+  colorBeam                 = -4194304
+  colorGrid                 = 1086374080
+  colorHighBackground       = -1
+  colorLensOutline          = 276865279
+  colorLensSelected         = 268484608
+  colorLightSource          = -16776961
+  colorLowBackground        = -16777216
+  colorTerminator           = -16777216
+  decimalPlaces             = 4
+  defaultWindowHeight       = 708
+  defaultWindowWidth        = 900
+  dispScale                 = 0.099735
+  dispersionBeams           = 8
+  divergingSource           = false
+  helpScrollPos             = 4918
+  interLensEpsilon          = 1.000000e-06
+  intersectionArrowSize     = 0.050000
+  inverse                   = false
+  maxIntersections          = 64
+  selectedComponent         = 2
+  selectedTab               = 0
+  showControls              = true
+  showGrid                  = true
+  snapValue                 = 0.000000e+00
+  surfEpsilon               = 5.000000e-04
+  tableLineLimit            = 500
+  virtualSpaceSize          = 100.000000
+  windowX                   = 129
+  windowY                   = 38
+  xBeamRotationPlane        = 0.000000e+00
+  xBeamSourceRefPlane       = -30.000000
+  xOffset                   = 7.358362
+  yEndBeamPos               = 1.800000
+  yOffset                   = 0.053731
+  yStartBeamPos             = -1.800000
+}
+
+object {
+  active                    = true
+  angle                     = 0.000000e+00
+  centerThickness           = 0.100000
+  dispersion                = 59.000000
+  function                  = 2
+  ior                       = 1.520000
+  leftCurvature             = 3
+  leftSphereRadius          = 10.000000
+  leftZValue                = 20.000000
+  lensRadius                = 10.000000
+  name                      = Terminal Plane
+  rightCurvature            = 3
+  rightSphereRadius         = 10.000000
+  rightZValue               = 20.000000
+  symmetrical               = true
+  thickness                 = 0.100000
+  xPos                      = 30.000000
+  yPos                      = 0.000000e+00
+}
+
+object {
+  active                    = true
+  angle                     = 0.000000e+00
+  centerThickness           = 0.834849
+  dispersion                = 59.000000
+  function                  = 0
+  ior                       = 1.520000
+  leftCurvature             = 0
+  leftSphereRadius          = 5.000000
+  leftZValue                = 20.000000
+  lensRadius                = 2.000000
+  name                      = Crown lens
+  rightCurvature            = 0
+  rightSphereRadius         = 5.000000
+  rightZValue               = 20.000000
+  symmetrical               = true
+  thickness                 = 0.000000e+00
+  xPos                      = 0.000000e+00
+  yPos                      = 0.000000e+00
+}
+
+object {
+  active                    = true
+  angle                     = 0.000000e+00
+  centerThickness           = 0.182576
+  dispersion                = 29.000000
+  function                  = 0
+  ior                       = 1.720000
+  leftCurvature             = 3
+  leftSphereRadius          = 10000.000000
+  leftZValue                = 20.000000
+  lensRadius                = 2.000000
+  name                      = Flint lens
+  rightCurvature            = 0
+  rightSphereRadius         = -5.000000
+  rightZValue               = 20.000000
+  symmetrical               = false
+  thickness                 = 0.600000
+  xPos                      = 0.381000
+  yPos                      = 0.000000e+00
+}
+

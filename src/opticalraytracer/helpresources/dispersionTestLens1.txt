@@ -1,0 +1,20 @@
+object {
+  active                    = true
+  angle                     = 0.000000e+00
+  centerThickness           = 0.834849
+  dispersion                = 59.000000
+  function                  = 0
+  ior                       = 1.520000
+  leftCurvature             = 0
+  leftSphereRadius          = 5.000000
+  leftZValue                = 20.000000
+  lensRadius                = 2.000000
+  name                      = Crown lens
+  rightCurvature            = 0
+  rightSphereRadius         = 5.000000
+  rightZValue               = 20.000000
+  symmetrical               = true
+  thickness                 = 0.000000e+00
+  xPos                      = 0.000000e+00
+  yPos                      = 0.000000e+00
+}
