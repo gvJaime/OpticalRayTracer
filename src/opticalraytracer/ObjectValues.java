@@ -32,6 +32,16 @@ final public class ObjectValues extends ValueManager {
 	double ior = 1.52;
 	double leftZValue = 20;
 	double rightZValue = 20;
+	double rightKValue = 0;
+	double leftKValue = 0;
+	double rightA4Value = 0;
+	double leftA4Value = 0;
+	double rightA6Value = 0;
+	double leftA6Value = 0;
+	double rightA8Value = 0;
+	double leftA8Value = 0;
+	double rightA10Value = 0;
+	double leftA10Value = 0;
 	double dispersion = 59;
 	double angle = 0;
 	int leftCurvature = Common.CURVATURE_SPHERICAL;
